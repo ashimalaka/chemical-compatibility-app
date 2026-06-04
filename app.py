@@ -55,7 +55,7 @@ st.markdown("""
 # Database Bahan Kimia Sangat Lengkap - 200+ Bahan Kimia
 # Dikembangkan untuk Audit Kompatibilitas Bahan Kimia
 
-expanded_chemical_database = {
+chemical_database = {
     # ====== ASAM MINERAL KUAT ======
     "Asam Klorida": {
         "kategori": "Asam Mineral Kuat",
